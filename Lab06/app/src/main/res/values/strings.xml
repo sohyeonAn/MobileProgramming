@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab06</string>
+    <string name="write">1. WRITE SD FILE</string>
+    <string name="clear">2. CLEAR SCREEN</string>
+    <string name="read">3. READ SD FILE</string>
+    <string name="finish">4. FINISH APP</string>
+</resources>
